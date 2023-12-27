@@ -1,0 +1,8 @@
+{
+    "flac_search_path": "Y:\\Phil Campbell and the Bastard Sons\\Kings of the Asylum",
+    "dry_run": false,
+    "log_level": "DEBUG",
+    "flac_action": "move", 
+    "new_flac_location": "Y:\\converted_flacs",
+    "tail_log": true
+}
